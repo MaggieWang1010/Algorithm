@@ -11,12 +11,12 @@ The ball will go through the empty spaces grid by grid.
 Robot with Wheel
 The ball can go through the empty spaces by rolling.
 
-![image](https://user-images.githubusercontent.com/55336314/180591748-bdc2ebf7-9a53-458f-bab0-bd33e10cb50d.png)
+![image](https://user-images.githubusercontent.com/55336314/180591916-1951c931-2f4e-46c8-a5fd-c16ed56687ad.png)
 
 # Implement Leetcode #490 The Maze by DFS method
 The ball can go through the empty spaces by rolling.
 
-![image](https://user-images.githubusercontent.com/55336314/180590726-03b73180-5120-47d1-998c-a36b1bb2201c.png)
+![image](https://user-images.githubusercontent.com/55336314/180591939-6962aa5c-c45e-43fa-aef3-b594389461b5.png)
 
 Details are discussed in the following Google Slides
 [MazeProject](https://docs.google.com/presentation/d/15oVsPqzbSf-DRaUFPEw_ZLtDzmYuwJ3q_BwmclVA3Ic/edit?usp=sharing)
