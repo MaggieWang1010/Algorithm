@@ -17,6 +17,8 @@ The ball can go through the empty spaces by rolling.
 The ball can go through the empty spaces by rolling.
 
 ![image](https://user-images.githubusercontent.com/55336314/180591939-6962aa5c-c45e-43fa-aef3-b594389461b5.png)
+# Python Source Code:
+https://github.com/MaggieWang1010/Algorithm/blob/998418cb012db5df33a997f5eb234eb4307c6ce3/DFS/Maze/MazePythonCode%23490
 
 Details are discussed in the following Google Slides
 [MazeProject](https://docs.google.com/presentation/d/15oVsPqzbSf-DRaUFPEw_ZLtDzmYuwJ3q_BwmclVA3Ic/edit?usp=sharing)
