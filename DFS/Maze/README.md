@@ -1,5 +1,5 @@
 # Maze_Project
-Depth-first search mothod to solve the maze question.
+Depth-first search mothod to solve the maze questions.
 
 # Problem1
 Robot without Wheel
