@@ -19,4 +19,4 @@ The ball can go through the empty spaces by rolling.
 ![image](https://user-images.githubusercontent.com/55336314/180590726-03b73180-5120-47d1-998c-a36b1bb2201c.png)
 
 Details are discussed in the following Google Slides
-https://docs.google.com/presentation/d/15oVsPqzbSf-DRaUFPEw_ZLtDzmYuwJ3q_BwmclVA3Ic/edit?usp=sharing
+[MazeProject]https://docs.google.com/presentation/d/15oVsPqzbSf-DRaUFPEw_ZLtDzmYuwJ3q_BwmclVA3Ic/edit?usp=sharing
