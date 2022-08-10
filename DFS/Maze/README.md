@@ -25,4 +25,4 @@ The ball can go through the empty spaces by rolling.
 [PythonCodeSolution](https://github.com/MaggieWang1010/Algorithm/blob/998418cb012db5df33a997f5eb234eb4307c6ce3/DFS/Maze/MazePythonCode%23490)
 
 Details are discussed in the following Google Slides
-[MazeProject](https://docs.google.com/presentation/d/15oVsPqzbSf-DRaUFPEw_ZLtDzmYuwJ3q_BwmclVA3Ic/edit?usp=sharing)
+[MazeProject](https://docs.google.com/presentation/d/1LhPN5Q9lkBJJHLPlByuhHKWjevZjTFFsMnXSCFgYc84/edit#slide=id.g1430dfc7be5_0_42)
