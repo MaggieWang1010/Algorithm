@@ -1,6 +1,9 @@
 # Maze_Project
 
-In order to figure out how to traverse a maze through code, we first need to understand what Breadth-first search is. Breadth-first search (sometimes referred to in this article as BFS) is a graph/tree traversal algorithm that follows a path as far as it can until it either, reaches the goal or has nowhere else to go. For this project, I am going to work on two different situation, first one is robot without wheel,another one is robot with wheel.
+How can we find the fastest way from point A to point B? Solving problems like this is very common in computing. An enemy AI in a video game needs to be able to find the fastest way to the player. Google Maps needs to find the fastest way to your destination. Here, we just want to solve a maze.
+
+There are several pathfinding algorithms. The one we’ll focus on today is Breadth-first Search or BFS. This algorithm is guaranteed to give the fastest path on an unweighted graph.
+
 
 Breadth-first search mothod to solve the maze questions.
 
